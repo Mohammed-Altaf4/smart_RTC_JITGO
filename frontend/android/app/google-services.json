@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248700238972",
+    "project_id": "smart-rtc-829cf",
+    "storage_bucket": "smart-rtc-829cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248700238972:android:a6ca7b48fb51137b855df9",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3JABH-s78sfOg-yp3WRpMyWnZVQKKT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
